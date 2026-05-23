@@ -1,0 +1,25 @@
+# Editor and OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+
+# Build outputs
+build/
+dist/
+out/
+cmake-build-*/
+*.o
+*.obj
+*.a
+*.lib
+*.exe
+*.dll
+*.pdb
+*.log
+
+# Temporary files
+*.tmp
+*.swp
+*.bak
